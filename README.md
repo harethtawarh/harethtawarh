@@ -11,7 +11,7 @@ I'm currently developing my skills in Python, Machine Learning, and Artificial I
 * Deep Learning
 * AI Engineering
 
-## Tools & Technologies
+## Tools \& Technologies
 
 * Python
 * C++
@@ -30,3 +30,6 @@ More projects will be added as I progress.
 ## Connect
 
 * Email: [harthtawarh@gmail.com](mailto:harthtawarh@gmail.com)
+
+GitHub setup completed successfully.
+
