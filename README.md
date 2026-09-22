@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Alhareth Altawrah 👋
 
-<!--
-**harethtawarh/harethtawarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate and aspiring AI Engineer.
 
-Here are some ideas to get you started:
+I'm currently developing my skills in Python, Machine Learning, and Artificial Intelligence through hands-on learning and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+* Python
+* Machine Learning
+* Deep Learning
+* AI Engineering
+
+## Tools & Technologies
+
+* Python
+* C++
+* HTML
+* CSS
+* SQL
+* Git
+* GitHub
+
+## Projects
+
+I'm building my portfolio through hands-on projects in Python, Machine Learning, and Artificial Intelligence.
+
+More projects will be added as I progress.
+
+## Connect
+
+* Email: [harthtawarh@gmail.com](mailto:harthtawarh@gmail.com)
