@@ -29,7 +29,5 @@ More projects will be added as I progress.
 
 ## Connect
 
-* Email: [harthtawarh@gmail.com](mailto:harthtawarh@gmail.com)
-
-GitHub setup completed successfully.
-
+- LinkedIn: [Alhareth Altawrah](https://www.linkedin.com/in/hareth-altawrah/)
+- Email: [harthtawarh@gmail.com](mailto:harthtawarh@gmail.com)
